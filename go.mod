@@ -1,1 +1,1 @@
-module github.com/wanfadong/testmod
+module github.com/wanfadong/testmod/v2
